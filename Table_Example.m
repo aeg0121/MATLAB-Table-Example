@@ -36,6 +36,7 @@ T = table(B1,B3,B5,B7,B9,B1_1,B3_1,B5_1,B7_1,B9_1,'RowNames',Models)
 T.Properties.Description = 'An example table of the coefficients of a 9th order, 2 memory tap model';
 %See the properties of the table.
 properties_1 = T.Properties;
+properties_1
 
 %"Variables" is the default name of the second dimension of a
 %table, the other being "Row". In other words, these are the collected values. 
