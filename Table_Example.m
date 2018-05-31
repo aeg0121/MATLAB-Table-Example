@@ -21,6 +21,8 @@ B5_1 = B(:,8);
 B7_1 = B(:,9);
 B9_1 = B(:,10);
 
+
+
 %The inputs to a table are all columns. After all the columns are put down,
 %one should specify the name of the rows, or from where the names of the
 %rows come from. Labeled row names come in handy for indexing. What comes 
